@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1stZoom</string>
+    <string name="repositories">Repositories</string>
+    <string name="add_new_repositories">Add new repositories</string>
+    <string name="no_repositories_added">No Repositories added</string>
+    <string name="enter_your_name">Enter Github Username</string>
+    <string name="enter_repository_name">Enter Repository Name</string>
+
+</resources>
